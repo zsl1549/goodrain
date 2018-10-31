@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[4],{iF6f:function(e,a,t){"use strict";var s=t("TqRt");Object.defineProperty(a,"__esModule",{value:!0}),a.default=void 0;var n=s(t("MVZn")),o={namespace:"monitor",state:{tags:[]},effects:{},reducers:{saveTags:function(e,a){return(0,n.default)({},e,{tags:a.payload})}}};a.default=o}}]);
